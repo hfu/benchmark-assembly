@@ -66,3 +66,8 @@
 [304:24] Done.
 
 ```
+
+/tmp/341035...osm.pbf was 8.0GB.
+
+see also [produce-320.stdout](produce-320.stdout).
+
